@@ -17,3 +17,25 @@
         display:none;
     }
 }
+
+
+.skin-blue .navbar {
+  background-color: rgb(51,151,157);
+}
+.skin-blue .logo:hover {
+  background: rgb(51,151,157);
+}
+
+.user-panel > .image > img {
+    width: 198px;
+    height: auto;
+}
+
+.user-panel > .info {
+    display:none;
+}
+
+.img-circle{
+    border-radius: 0%;
+
+}
